@@ -1,6 +1,6 @@
 # Echoes of the fallen city
 
-
+![Echoes](https://raw.githubusercontent.com/Ken148/Echoes-of-the-fallen-city/main/echoes.png)
 ## 🧟 Overview
 - Zombie Battle Royale Modpack is a custom modpack created for a survival battle royale experience against zombies.  
 - The project includes a custom-made map, selected mods for gameplay improvements, and settings designed to create a challenging and fun survival environment.
